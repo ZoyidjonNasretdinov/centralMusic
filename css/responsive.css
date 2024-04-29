@@ -1,0 +1,18 @@
+@media (max-width: 900px) {
+	.site-header {
+		padding-top: 63px;
+	}
+
+	.header-list {
+		display: none;
+	}
+
+	.header-link {
+		display: none;
+	}
+
+	.menu-btn {
+		display: flex;
+	}
+
+}
